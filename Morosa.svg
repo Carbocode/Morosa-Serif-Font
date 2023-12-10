@@ -8,11 +8,13 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
-   sodipodi:docname="Blue Ocean Remix.svg"
+   sodipodi:docname="Morosa.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
@@ -50,7 +52,7 @@
        gridanglez="30"
        visible="false" />
     <sodipodi:guide
-       position="299.22842,890.00694"
+       position="0,950"
        orientation="0,1000"
        id="ink-font-guide-ascender"
        inkscape:label="ascender"
@@ -62,13 +64,13 @@
        inkscape:label="caps"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="514.84378,665.82699"
+       position="0,600"
        orientation="0,1000"
        id="ink-font-guide-x-height"
        inkscape:label="x-height"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-4.0752806,199.88657"
+       position="0,200"
        orientation="0,1000"
        id="ink-font-guide-baseline"
        inkscape:label="baseline"
@@ -680,4 +682,23 @@
          id="path26" />
     </g>
   </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
