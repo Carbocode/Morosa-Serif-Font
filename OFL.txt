@@ -1,4 +1,4 @@
-Copyright (c) 2023, Carbocode (https://github.com/carbocode/morosa),
+Copyright (c) 2023, Carbocode (https://github.com/carbocode/morosa-serif-font),
 with Reserved Font Name Morosa.
 Copyright (c) 2020,  The Blue Ocean Project Authors (https://github.com/eliheuer/blue-ocean),
 with Reserved Font Name Blue Ocean.
